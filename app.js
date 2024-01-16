@@ -82,3 +82,6 @@ const port = 8000;
 app.listen(port, () => {
     console.log(`server running at port ${port}`);
 });
+
+//Itna kuch toh samjh hi nhi ayaa
+//aayein baigen

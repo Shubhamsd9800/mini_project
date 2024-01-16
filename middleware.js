@@ -65,3 +65,5 @@ const isProductAuthor = async(req,res,next)=>{
 
 
 module.exports = {validateProduct ,validateReview , isLoggedIn , isSeller , isProductAuthor} ;
+
+//Okay bhai samjh nhi aya
